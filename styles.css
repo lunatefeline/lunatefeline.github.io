@@ -38,3 +38,13 @@ body{
 .fuchsia{
     color: #ff00ff;
 }
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color:#333;
+    color: #ff00ff;
+    a{
+        color:#ff00ff;
+    }
+}
